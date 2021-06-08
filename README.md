@@ -3,6 +3,8 @@
 # ICTGCW-Stage-2-Dahsboard
 Based on - Admin LTE 3.1.0 - React 17.0.2
 
+# Team members - Utkarsh, Sankalp, Shahbaaz, Kaviya
+
 To login website use:
 
 `username:` admin@example.com<br />
