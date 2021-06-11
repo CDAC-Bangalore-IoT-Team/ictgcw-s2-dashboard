@@ -4,6 +4,9 @@
 Based on - Admin LTE 3.1.0 - React 17.0.2
 Add your code here
 
+## Team
+Shahbaaz, Sankalp
+
 To login website use:
 
 `username:` admin@example.com<br />
