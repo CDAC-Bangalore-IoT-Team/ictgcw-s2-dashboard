@@ -252,6 +252,90 @@ const Dashboard = () => {
                                 GlobalM Pvt Ltd
                             </Popup>
                         </Marker>
+                        <Marker position={[23.5555, 72.323]}>
+                            <Popup>
+                                Sametra, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.6232, 72.3799]}>
+                            <Popup>
+                                Ramosana, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.5639, 72.3518]}>
+                            <Popup>
+                                Heduva Rajgar, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.5442, 72.4421]}>
+                            <Popup>
+                                Kherava, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.4513, 72.4229]}>
+                            <Popup>
+                                Ambaliyasan, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.5189, 72.2497]}>
+                            <Popup>
+                                Balol, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[21.7547, 70.618]}>
+                            <Popup>
+                                Jetpur, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.5504, 72.1544]}>
+                            <Popup>
+                                Vijapurda, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.407, 72.3873]}>
+                            <Popup>
+                                Ganeshpura, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.8326, 72.2145]}>
+                            <Popup>
+                                Digadi, Gujarat
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[24.7887, 93.8286]}>
+                            <Popup>
+                                Ngairangbam, Manipur
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[24.8921, 93.8986]}>
+                            <Popup>
+                                Khonghampat, Manipur
+                                <br />
+                                Greenvironment Pvt Ltd
+                            </Popup>
+                        </Marker>
                     </MapContainer>
                 </div>
                 );
