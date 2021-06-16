@@ -336,6 +336,181 @@ const Dashboard = () => {
                                 Greenvironment Pvt Ltd
                             </Popup>
                         </Marker>
+                        <Marker position={[26.1212, 72.5087]}>
+                            <Popup>
+                                Mandali, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.8464, 72.6669]}>
+                            <Popup>
+                                Sipor, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.7263, 72.6491]}>
+                            <Popup>
+                                Chhabaliya, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.7458, 72.5929]}>
+                            <Popup>
+                                Gunja, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.7816, 72.5545]}>
+                            <Popup>
+                                Umata, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.7081, 72.516]}>
+                            <Popup>
+                                Kansa, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.6458, 72.6122]}>
+                            <Popup>
+                                Gothva, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.763, 72.3637]}>
+                            <Popup>
+                                Unava, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.886, 72.4391]}>
+                            <Popup>
+                                Kahoda, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[23.8642, 72.3637]}>
+                            <Popup>
+                                Brahmanvada, Gujarat
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[24.7417, 93.1153]}>
+                            <Popup>
+                                Chongtham, Manipur
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.7326, 76.1523]}>
+                            <Popup>
+                                Toonga, Rajasthan
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.2722, 79.1859]}>
+                            <Popup>
+                                Madhogarh, Rajasthan
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.1159, 76.8526]}>
+                            <Popup>
+                                Jatwara, Rajasthan
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.6449, 76.0827]}>
+                            <Popup>
+                                Kotkhawda, Rajasthan
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1144, 77.4296]}>
+                            <Popup>
+                                Chirchita, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1975, 77.4444]}>
+                            <Popup>
+                                Bopura, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1501, 77.4272]}>
+                            <Popup>
+                                Chandayan, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[28.5462, 77.5562]}>
+                            <Popup>
+                                Dadri, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1038, 77.4214]}>
+                            <Popup>
+                                Fakharpur Shaikhpura, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.5925, 48.4252]}>
+                            <Popup>
+                                Galheta, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1917, 77.4286]}>
+                            <Popup>
+                                Garhi Kanmaran, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[28.9435, 77.1801]}>
+                            <Popup>
+                                Jhundpur, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.1565, 77.4645]}>
+                            <Popup>
+                                Khaprana, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Mangrauli, Uttar Pradesh
+                                <br />
+                                Rydot Infotech Pvt Ltd
+                            </Popup>
+                        </Marker>
                     </MapContainer>
                 </div>
                 );
