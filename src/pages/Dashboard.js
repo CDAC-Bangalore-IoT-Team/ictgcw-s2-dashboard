@@ -511,6 +511,270 @@ const Dashboard = () => {
                                 Rydot Infotech Pvt Ltd
                             </Popup>
                         </Marker>
+                        <Marker position={[30.211, 76.9002]}>
+                            <Popup>
+                                Dinarpur, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Ghein, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2308, 76.9629]}>
+                            <Popup>
+                                Haryoli, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2605, 77.019]}>
+                            <Popup>
+                                HemaMajra, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2843, 76.96]}>
+                            <Popup>
+                                Jawahargarh, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2928, 77.0017]}>
+                            <Popup>
+                                Kalpi, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Nagian, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.478479, 77.131256]}>
+                            <Popup>
+                                NaraingarhMajra, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.1959, 76.9124]}>
+                            <Popup>
+                                Panjail, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                PhulelMajra, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2201, 76.9557]}>
+                            <Popup>
+                                Sabga, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[29.926, 74.6764]}>
+                            <Popup>
+                                Shergarh, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.3064, 76.9477]}>
+                            <Popup>
+                                Tepla, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Mangrauli, Haryana
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[24.8374, 93.9496]}>
+                            <Popup>
+                                Heingang, Manipur
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.7259, 75.9413]}>
+                            <Popup>
+                                Bada Padampura, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.7419, 75.7559]}>
+                            <Popup>
+                                Shri Rampura, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.6378, 75.7044]}>
+                            <Popup>
+                                Chittora, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[25.6214, 75.9405]}>
+                            <Popup>
+                                Nandgaon, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Bargi Sirsa, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.2862, 75.6259]}>
+                            <Popup>
+                                Dhodsar, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.1518, 76.1189]}>
+                            <Popup>
+                                Raisar, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.133, 75.9567]}>
+                            <Popup>
+                                Achrol, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[26.5135, 81.6446]}>
+                            <Popup>
+                                Surana Kumbhawas, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[27.6178, 76.0558]}>
+                            <Popup>
+                                BhuriBharaj, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[28.5208, 75.6417]}>
+                            <Popup>
+                                Rampura, Rajasthan
+                                <br />
+                                Eyenetaqua Solutions Private Limited and
+                                Ilonnati Innovations Private Limited
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.4756, 77.2017]}>
+                            <Popup>
+                                Hamidpur, Haryana
+                                <br />
+                                Agua Wireless Systems Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2137, 77.1615]}>
+                            <Popup>
+                                Milk Dhankotan, Haryana
+                                <br />
+                                Agua Wireless Systems Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[16.7827, 80.3519]}>
+                            <Popup>
+                                Gollamudi, Andhra Pradesh
+                                <br />
+                                Kritsnam Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[16.3111, 80.491]}>
+                            <Popup>
+                                Takkellapadu, Andhra Pradesh
+                                <br />
+                                Kritsnam Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[16.3589, 80.5288]}>
+                            <Popup>
+                                Namburu, Andhra Pradesh
+                                <br />
+                                Kritsnam Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.2323, 77.014]}>
+                            <Popup>
+                                Rajouli, Haryana
+                                <br />
+                                Ronds Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.4922, 77.1413]}>
+                            <Popup>
+                                Rampur, Haryana
+                                <br />
+                                Ronds Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
+                        <Marker position={[30.5259, 76.9974]}>
+                            <Popup>
+                                Sarakpur, Haryana
+                                <br />
+                                Ronds Technologies Pvt Ltd
+                            </Popup>
+                        </Marker>
                     </MapContainer>
                 </div>
                 );
